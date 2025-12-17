@@ -1,3 +1,4 @@
+ruby file: ".ruby-version"
 source "https://rubygems.org"
 gem "logger", "~> 1.6", ">= 1.6.5"
 gem "jekyll", "~> 4.4", ">= 4.4.1"
