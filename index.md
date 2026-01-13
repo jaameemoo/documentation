@@ -8,6 +8,7 @@ nav_exclude: true
 {: .fw-300 }
 Welkom op meemoo's documentatie voor ontwikkelaars!
 Hier vind je alles over ons metadatamodel (incl. dataformaten), onze SIP-specificatie en onze APIs.
+Bundler cache enabled.
 
 1. [Alles over metadata bij meemoo]({{ site.baseurl }}{% link docs/metadata/index.md %})
    1. [Het huidig metadatamodel]({{ site.baseurl }}{% link docs/metadata/viaa/index.md %})
